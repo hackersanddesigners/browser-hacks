@@ -164,6 +164,13 @@ Will need an audio context
       o1.start()
     }
 
+### Speak text
+
+    const speakText = (txt) => {
+      const msg = new SpeechSynthesisUtterance(txt)
+      window.speechSynthesis.speak(msg)
+    }
+
 ## Link/Resources
 
 * [Audio, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
