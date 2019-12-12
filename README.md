@@ -1,4 +1,6 @@
-# Helpful browser hacks
+# Browser Hacks
+
+Code developed for the "Live Hacks" workshop at Aalto University (December 2019)
 
 ## Select all elements with css class into a variable
 
