@@ -171,6 +171,8 @@ Will need an audio context
       window.speechSynthesis.speak(msg)
     }
 
+    speakText("Long falafel")
+
 ## Link/Resources
 
 * [Audio, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
