@@ -164,4 +164,9 @@ Will need an audio context
       o1.start()
     }
 
+## Link/Resources
+
+* [Audio, MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
+* [CSS Selectors, W3C](https://www.w3.org/TR/selectors-api/)
+
 
