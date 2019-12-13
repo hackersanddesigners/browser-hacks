@@ -1,6 +1,50 @@
 # Browser Hacks
 
-Code developed for the "Live Hacks" workshop at Aalto University (December 2019)
+These browser hacks were used during 'Live Hacks' – a one-week workshop, which took place at Aalto University in December 2019 and resulted in a collaborative live coding performance, in which the students showed off their newly obtained coding, design and improvisation skills!
+
+
+## Workshop setup
+
+Instant/live Hacking in this workshop meant messing with existing tools, using them in unintended ways and in an improvisational manner: 
+
+We went through different stages during the week. 
+We introduce students to different possibilities of live hacking… 
+through tutorials, hands-on exercises, and freestyle improvisation 
+
+Students familiarised themselves with the condition of things ’not working’, errors and unintended results, and learned how to find more comfort in modes of ‘debugging’ ‘fixing’ 
+
+Eventually students worked on a live coding performance, a design and coding choreography, that  only lived in one moment — that moment was Friday 13 December, the end of the workshop. 
+
+
+**Monday**
+
+The workshop kicked off with a focus on breaking with habits of working with familiar tools. The students were asked to look at interfaces that are familiar to them, tools they embody, that they don’t question anymore. That they use them 'without thinking' so to speak. 
+The day was called 'Interfacial Workout', building forth on a workshop H&D has given in October 2019 at POST Design Festival in Copenhagen.
+Connecting a MakeyMakey to a familiar interface, the students were able to translate some of their habitual interactions to other gestures, physical movements, strange materials, ... 
+ 
+**Tuesday**
+
+
+We moved from design tools to probably the most common tool, an interface that we all use on a daily base –– the browser 
+
+Student were lead through a one-day crash course in HTML, CSS and Javascript, the history of these programming languages and the browser.  
+
+**Wednesday**
+
+Equipped with the newly obtained skills, the students were started working on their own browser hack choreography, developed bits and pieces that they can use to perform live on Friday.   
+
+**Thursday**
+
+At the end of the day on Thursday the students rehearsed their choreographies for the first time, to see what they run into when performing live, negotiating keyboard, screens, the physicality of the room and the bodies it obtains, light and sound.  
+
+**Friday**
+
+We prepared for the big performance! 
+Live Coding session: Breaking with habits of designing, coding and failing in public 
+
+
+
+##Code developed for the "Live Hacks" workshop at Aalto University (December 2019)
 
 ## Select all elements with css class into a variable
 
@@ -83,7 +127,7 @@ Delete it...
 
 Will need an audio context
 
-    let ac = new AudioContext()
+    let ac = new AudioContect()
 
 ### Play a note at a certain fequency
 
