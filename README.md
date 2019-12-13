@@ -83,7 +83,7 @@ Delete it...
 
 Will need an audio context
 
-    let ac = new AudioContect()
+    let ac = new AudioContext()
 
 ### Play a note at a certain fequency
 
